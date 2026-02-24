@@ -181,8 +181,3 @@ Built as part of continuous learning in Machine Learning and AI.
 
 ---
 
-If you want, I can also generate:
-
-* A more beginner-friendly README
-* A more technical/research-style README
-* Or a visually enhanced GitHub README with badges and banners 🚀
